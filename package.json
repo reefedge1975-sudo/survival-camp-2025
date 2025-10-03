@@ -1,0 +1,19 @@
+{
+  "name": "survival-camp-2025-app",
+  "version": "1.0.0",
+  "description": "Survival Camp 2025 Web Application with Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "firebase",
+    "apphosting",
+    "express"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
